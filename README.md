@@ -2,5 +2,5 @@
 
 ## TO DO
 
-- Single Thread Server
-- Turn to multithread server
+- --Single Thread Server--
+- ~~Turn to multithread server~~
